@@ -16,7 +16,7 @@ public class Anagrama implements IAnagrama {
 	    //ordena para garantir a comparação simplificada
 	    Arrays.sort(c1);
 	    Arrays.sort(c2);
-	    //cria as novas strings baseadas nos arrays ordenados
+	    //cria novas strings baseadas nos arrays ordenados
 	    String sc1 = new String(c1);
 	    String sc2 = new String(c2);
 	    return sc1.equals(sc2);
