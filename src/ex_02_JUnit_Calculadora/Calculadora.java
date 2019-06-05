@@ -1,4 +1,4 @@
-package exercicio01;
+package ex_02_JUnit_Calculadora;
 
 public class Calculadora implements ICalculadora {
 

@@ -1,4 +1,4 @@
-package exercicio01;
+package ex_02_JUnit_Calculadora;
 
 public interface ICalculadora {
 
@@ -7,4 +7,5 @@ public interface ICalculadora {
 	public Double dividir (String n1, String n2);
 	
 	public Double raizQuadrada (String n1, String n2);
+	
 }

@@ -1,8 +1,11 @@
-package exercicio01;
+package aTIV_02_JUnit_Calculadora;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import ex_02_JUnit_Calculadora.Calculadora;
+import ex_02_JUnit_Calculadora.ICalculadora;
 
 public class CalculadoraTeste{
 	

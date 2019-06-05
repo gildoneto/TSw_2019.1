@@ -1,8 +1,11 @@
-package exercicio05;
+package aTIV_05_JUnit_Anagrama;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import ex_05_JUnit_Anagrama.Anagrama;
+import ex_05_JUnit_Anagrama.IAnagrama;
 
 
 public class AnagramaTeste {

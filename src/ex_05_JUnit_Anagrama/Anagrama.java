@@ -1,4 +1,4 @@
-package exercicio05;
+package ex_05_JUnit_Anagrama;
 
 import java.util.Arrays;
 
