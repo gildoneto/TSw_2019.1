@@ -4,10 +4,10 @@ import java.util.Collection;
 
 public class Ordenador implements IOrdenador{
 	
-	double maiorValor;
-	double menorValor;
-	double valorMedio;
-	double valorMediano;
+	public double maiorValor;
+	public double menorValor;
+	public double valorMedio;
+	public double valorMediano;
 
  	@Override
 	public void inserirColecao(Collection<String> pColecao) {

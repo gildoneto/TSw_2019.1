@@ -12,7 +12,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import ex_03_JUnit_Ordenador.Ordenador;
-import ex_03_JUnit_Ordenador.IOrdenador;
 
 public class OrdenadorTeste {
 
